@@ -5,6 +5,10 @@
 Name:Sal Sicari
 Time spent: Worked on throughout a 2 week period
 /**********************************************************************
+ *  IMPORTANT
+ **********************************************************************/
+Due to a recent update the xpath changed, I have updated them on my own personal code, but not here. 
+/**********************************************************************
  *  What the program does
  **********************************************************************/
 This program will open up pollev and sign in to an account and join a specific presentation and run for a set amount of time, based on the user input data. It is also running in the background in headless mode. 
@@ -40,6 +44,9 @@ a few solutions I have tried seemed to screw up the time worse, and could lead t
 Overall I would say I gained a lot of experience. Of course I learned a lot of basic python and learned some fundamentals of how webpages work and how to interact with them autonomously and even basic scraping. I used selenium
 and Beautiful soup and learned a lot about these as well. I also gained invaluable experience of working through problems on my own and finding resources to learn and help. Unlike in school there is no teacher to ask or tutors to 
 go to. Having to find solutions on my own and using online resources to figure out my problems has taught me a lot over this project. 
+
+EDIT*
+PollEV updated their website causing the xpaths to change, requiring me to update them all in my code. In the future if I could minimize use of web elements subject to change I would, as a way to try to prevent the need for long changes to your code if a website updates.
 
 
 /**********************************************************************
